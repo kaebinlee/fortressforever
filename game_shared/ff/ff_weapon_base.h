@@ -145,6 +145,9 @@ typedef enum
 
 	// Soldier specific
 	FF_WEAPON_RPG, 
+	
+	// Spy grappling hook gun
+	FF_WEAPON_HOOKGUN, 
 
 	// End of normal TFC weapons
 	// =========================

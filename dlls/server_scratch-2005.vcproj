@@ -757,6 +757,14 @@
 					>
 				</File>
 				<File
+					RelativePath="..\game_shared\ff\ff_projectile_hook.cpp"
+					>
+				</File>
+				<File
+					RelativePath="..\game_shared\ff\ff_projectile_hook.h"
+					>
+				</File>
+				<File
 					RelativePath="..\game_shared\ff\ff_projectile_incendiaryrocket.cpp"
 					>
 				</File>
@@ -862,6 +870,10 @@
 				</File>
 				<File
 					RelativePath="..\game_shared\ff\ff_weapon_grenadelauncher.cpp"
+					>
+				</File>
+				<File
+					RelativePath="..\game_shared\ff\ff_weapon_hookgun.cpp"
 					>
 				</File>
 				<File
