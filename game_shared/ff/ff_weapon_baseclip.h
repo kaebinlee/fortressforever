@@ -24,7 +24,7 @@ public:
 	DECLARE_NETWORKCLASS(); 
 	DECLARE_PREDICTABLE();
 
-private:
+protected:
 
 public:
 	virtual	bool StartReload();
